@@ -1,32 +1,31 @@
 <!-- info -->
-### :wave: Welcome!
+### Hi there 👋   
 
+ - 💻   **I'm a Web Develover**    
 
-<!-- TASTEYOM -->
-## <a href="http://dagachi.com"> 다가치 </a>
-<div align="center">
-  
-![image](https://user-images.githubusercontent.com/49058580/173588612-70de547b-f053-4a7e-bf63-90a239c7867b.png)
-  
-</div>
-
-- This is my FIRST PROJECT
-- Full Stack developed
+ - 🚅  **I'm working in South Korea**
 
 ------
 <!-- Language logo-->
 ### Main Lanauage
-<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 
-### Develop Engine
-<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+### Frame work
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 
-### Publish
-<img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
+### Database
+<img src="https://img.shields.io/badge/oracle cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
 <div align="center">
   
 <!-- most used language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newTypeo&layout=compact)](https://github.com/newTypeo/github-readme-stats) <!-- Github Status --> ![newTypeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=delay-100&show_icons=true&theme=dracula)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinjh6348)](https://solved.ac/sinjh6348)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newTypeo&layout=compact&theme=cobalt)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newTypeo&show_icons=true&theme=cobalt)
 </div>
+
+
