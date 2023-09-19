@@ -27,6 +27,6 @@
 <div align="center">
   
 <!-- most used language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newTypeo&layout=compact)](https://github.com/newTypeo/github-readme-stats) <!-- Github Status --> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delay-100&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newTypeo&layout=compact)](https://github.com/newTypeo/github-readme-stats) <!-- Github Status --> ![newTypeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=delay-100&show_icons=true&theme=dracula)
 
 </div>
